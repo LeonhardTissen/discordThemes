@@ -1,0 +1,97 @@
+/**
+ * @name Totaljerkface Theme No Clarendon
+ * @author Warze#3295
+ * @version 1.0.0
+ * @description Theme inspired by Totaljerkface.com
+*/
+
+body {
+    background-color: black;
+}
+.theme-light {
+    --background-primary: #ffffff;
+    --background-secondary: #efefef;
+    --background-tertiary: #3D88C7;
+    --background-accent: #ffffff;
+    --background-floating: #ffffff;
+    --background-secondary-alt: #ffffff;
+    --channeltextarea-background: #efefef;
+    --text-link: #3D88C7;
+    --brand-experiment: #fd8181;
+    --button-danger: #fd8181;
+    --button-danger-background: #fd8181;
+    --brand-experiment-560: #3D88C7;
+    --brand-experiment-600: #3D88C7;
+}
+.aboutMeBody-1J8rhz {
+    background: linear-gradient(to left, rgba(0,0,0,1) 0%, rgba(80,0,0,1) 100%);
+    border-radius: 5px;
+}
+.role-2irmRk .roleName-32vpEy {
+    color: white;
+}
+.iconContainer-21RCa3 {
+    width: 0;
+    opacity: 0;
+    transition: all 0.1s cubic-bezier(0.33, 1, 0.68, 1);
+    transform: translateX(-10px);
+}
+.wrapper-NhbLHG:hover .iconContainer-21RCa3 {
+    display: inline-block;
+    width: 15px;
+    opacity: 1;
+    transform: translateX(0px);
+}
+.sidebar-1tnWFu {
+    width: 200px;
+}
+.nameTag-sc-gpq {
+    display: none;
+}
+.listItem-3SmSlK {
+    width: 60px;
+}
+.icon-3AqZ2e {
+    border-radius: 50%;
+}
+.wrapper-1_HaEi {
+    width: 60px;
+}
+.iconBase-2G48Fc {
+    opacity: 0;
+    width: 0;
+}
+.newMessagesBar-1hF-9G {
+    display: none;
+}
+.colorStreamerMode-8uoRWd {
+    display: none;
+}
+.withTagAsButton-OsgQ9L, .withTagless-10ooWt {
+min-width: 0px;
+}
+.inner-NQg18Y {
+    background-color: #0004 !important;
+}
+.expandedFolderBackground-1kSAf6 {
+    background-color: transparent;
+}
+.wrapper-3kah-n, .avatar-2e8lTP  {
+    background: linear-gradient(0deg, #fd8181, #3d89c7);
+}
+svg[aria-label="Verified"], .flowerStar-2tNFCR {
+    color: #fd8181;
+}
+.search-2Mwzzq * {
+    background-color: #ffffff !important;
+    color: black;
+}
+.theme-light .themed-Hp1KC_, .header-3OsQeK {
+    background: #dfdddb;
+}
+.children-3xh0VB::after {
+    display: none;
+}
+.container-1zzFcN, .container-YkUktl {
+    background-color: #dfdddb !important;
+}
