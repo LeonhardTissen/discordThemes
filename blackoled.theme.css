@@ -252,3 +252,8 @@ min-width: 0px;
 .inner-NQg18Y {
     background-color: #0004 !important;
 }
+.hovered-20u3oh {
+    width: 100px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
