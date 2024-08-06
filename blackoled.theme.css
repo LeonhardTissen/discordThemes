@@ -255,3 +255,7 @@ min-width: 0px;
 .withTagAsButton-2_JkHX, .withTagless-Lx3LMo {
     min-width: 90px;
 }
+.channelAppLauncher_df39bd,
+button[aria-label="Send a gift"] {
+    display: none;
+}
