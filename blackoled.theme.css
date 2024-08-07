@@ -259,3 +259,13 @@ min-width: 0px;
 button[aria-label="Send a gift"] {
     display: none;
 }
+/* Smaller channel sidebar */
+.avatarWrapper_b2ca13 {
+    min-width: 65px;
+}
+.sidebar_a4d4d9 {
+    width: 180px;
+}
+.panelSubtextContainer_b2ca13 {
+    display: none;
+}
