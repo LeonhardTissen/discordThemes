@@ -272,3 +272,16 @@ button[aria-label="Send a gift"] {
 .button_dd4f85 {
     padding: 2px 2px;
 }
+/* Neater user */
+.nameTag_b2ca13 {
+    display: none;
+}
+.avatarWrapper_b2ca13 {
+    background-color: transparent;
+}
+.avatar_b2ca13 {
+    transition: transform 0.2s ease;
+}
+.avatarWrapper_b2ca13:hover .avatar_b2ca13 {
+    transform: scale(1.1);
+}
