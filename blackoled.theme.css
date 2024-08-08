@@ -277,7 +277,8 @@ button[aria-label="Send a gift"] {
     display: none;
 }
 .avatarWrapper_b2ca13 {
-    background-color: transparent;
+    background-color: transparent !important;
+    min-width: 0px;
 }
 .avatar_b2ca13 {
     transition: transform 0.2s ease;
