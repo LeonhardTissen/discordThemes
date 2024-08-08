@@ -278,7 +278,7 @@ button[aria-label="Send a gift"] {
 }
 .avatarWrapper_b2ca13 {
     background-color: transparent !important;
-    min-width: 0px;
+    min-width: 0px !important;
 }
 .avatar_b2ca13 {
     transition: transform 0.2s ease;
